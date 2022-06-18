@@ -1,4 +1,4 @@
-package main.java.io.tetsutech;
+package io.tetsutech;
 
 public class DeprecatedTest {
   public static void main(String[] args) {

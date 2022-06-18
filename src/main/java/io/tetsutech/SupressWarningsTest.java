@@ -1,4 +1,4 @@
-package main.java.io.tetsutech;
+package io.tetsutech;
 
 public class SupressWarningsTest {
   // SupressWariningを使用することでDeprecatedのwarnが出るのを抑制する
