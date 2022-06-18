@@ -1,3 +1,5 @@
+package io.tetsutech;
+
 public class ClassTest {
   public static void main(String[] args) {
     Counter counter = new Counter(0);
