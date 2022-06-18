@@ -1,4 +1,4 @@
-package io.tetsutech;
+package test.java.io.tetsutech;
 
 import junit.framework.Test;
 import junit.framework.TestCase;

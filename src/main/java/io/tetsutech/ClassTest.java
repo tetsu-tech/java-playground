@@ -1,4 +1,4 @@
-package io.tetsutech;
+package main.java.io.tetsutech;
 
 public class ClassTest {
   public static void main(String[] args) {

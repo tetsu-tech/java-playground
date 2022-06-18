@@ -1,4 +1,4 @@
-package io.tetsutech;
+package main.java.io.tetsutech;
 
 public class OverrideTest extends TestOverride {
   // MEMO: Override annotationをつけることでメソッドがOverrideされることを保証する

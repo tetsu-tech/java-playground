@@ -1,4 +1,4 @@
-package io.tetsutech;
+package main.java.io.tetsutech;
 
 import java.util.ArrayList;
 import java.util.LinkedList;

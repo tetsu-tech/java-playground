@@ -1,4 +1,4 @@
-package io.tetsutech;
+package main.java.io.tetsutech;
 
 import java.util.Arrays;
 import java.util.List;
