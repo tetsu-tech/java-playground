@@ -1,3 +1,5 @@
 *.class
 html/
 target/
+.gradle/
+build/
